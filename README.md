@@ -25,3 +25,11 @@ The schema is then used to render the diagram and docs
 ![diagram](assets/recepits-app-diagram.png)
 
 **For more info on how to create a Stryke app visit [www.stryke.io](www.stryke.io)**
+
+
+Demo
+------------
+
+Check out our [Glitch project](https://stryke-voyager.glitch.me) for a live demo of Stryke-Voyager. 
+
+https://stryke-voyager.glitch.me
