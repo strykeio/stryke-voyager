@@ -7,6 +7,12 @@ It will also describe all entities and their fields as a searchable documentatio
 
 Stryke Voyager uses [GrahQL Voyager](https://github.com/APIs-guru/graphql-voyager) to draw your entites based on the GraphQL schema of your app. 
 
+Live Demo
+------------
+
+Check out our [Glitch project](https://stryke-voyager.glitch.me) for a live demo of Stryke-Voyager. 
+
+https://stryke-voyager.glitch.me
 
 Usage
 ------------
@@ -27,9 +33,3 @@ The schema is then used to render the diagram and docs
 **For more info on how to create a Stryke app visit [www.stryke.io](www.stryke.io)**
 
 
-Demo
-------------
-
-Check out our [Glitch project](https://stryke-voyager.glitch.me) for a live demo of Stryke-Voyager. 
-
-https://stryke-voyager.glitch.me
